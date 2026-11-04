@@ -14,9 +14,7 @@ This site serves as a live record of my technical labs, architectural designs, a
 *(Hands-on coursework and independent labs - documented by semester)*
 
 ### Semester 1:
-* EX1
-* EX2
-* EX3
+* [**Project 1**](https://github.com/Lauren-Scobie/Lauren-Scobie/blob/main/Project%201.md)
 
 ### Semester 2:
 * *Projects Coming Soon!*
